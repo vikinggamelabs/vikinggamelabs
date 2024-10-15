@@ -1,0 +1,52 @@
+{
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF0000",
+      "backgroundColor": "#FF000020",
+      "bold": true,
+    },
+    {
+      "tag": "review",
+      "color": "#1900FF",
+      "backgroundColor": "#1900FF20",
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent",
+    },
+    {
+      "tag": "todo",
+      "color": "#FF9900",
+      "underline": true,
+      "backgroundColor": "#FF990020",
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "backgroundColor": "transparent",
+    },
+    {
+      "tag": "info",
+      "color": "#7DF9FF",
+      "backgroundColor": "#7DF8FF20",
+    },
+    {
+      "tag": "good",
+      "color": "#1BCE48",
+      "backgroundColor": "#1BCE4820",
+    },
+    {
+      "tag": "note",
+      "color": "#FF00BF",
+      "backgroundColor": "#FF00BF20",
+    },
+    {
+      "tag": "debug",
+      "color": "#FFFF00",
+      "backgroundColor": "#FFFF0020",
+    }
+  ],
+}
